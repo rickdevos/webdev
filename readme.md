@@ -79,7 +79,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/screenshot1.png" width="375px" alt="Homepage mobile">
+<img src="images/screenshot1.png" width="375px" alt="Homepage mob">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
