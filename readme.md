@@ -8,15 +8,15 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
-3. -...-
+1. https://dev.to/saravanakumarputta/js-snippets-carousel-slider-using-plain-html-css-and-js-5fjc
+2. 
+3. 
 
 
 
 ## Eindgesprek (week 7/8)
 
--dit ging goed & dit was lastig-
+
 
 **Screenshot(s):**
 
@@ -26,13 +26,19 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+-dit ging goed & dit was lastig-
+
+Goed: De basis van de site staat. Ook is het gelukt om een gradient toe te voegen aan zowel het logo als de tekst items.
+Lastig: De javascript code om van de header een carousel te maken is nog niet helemaal goed te begrijpen. Ik wil deze bron code versimpelen in mijn eigen javascript code. Ik merk dat ik hier was extra verdieping in nodig heb om het helemaal succesvol te maken. Ook zit er in het logo een gradient animatie. Dit is nog erg lastig voor mij. Toch wil ik mijzelf wel uitdagen om het in orde te krijgen. 
 
 
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+-dit ging goed & dit was lastig-
+
+Goed: Niet vast blijven houden aan ns.nl en een meer realistisch plan gemaakt. Mijn keuze is gevallen op de coldplay.com website. Deze is wat minimalistiser en voldoende uitdaging voor mijn niveau van code.
+Lastig: Ik krijg de boven header niet "Fixed". Elke keer veranderd hij de locatie van het menu.
 
 
 
@@ -41,6 +47,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 ### Stand van zaken
 
 -dit ging goed & dit was lastig-
+
+Goed: De html en css basis weer up to date krijgen (flexbox).
+Lastig: Ik had gekozen voor NS.nl. Het instapniveau lag net iets te hoog waardoor ik veel tijd ben verloren.
 
 **Screenshot(s):**
 
@@ -67,13 +76,15 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 -uitwerken voor de 1e werkgroep - eind van de eerste week-
 
 
+//BREAKDOWN SCHETSEN//
+
 
 ## Intake (week 1)
 -uitwerken voor de kick-off werkgroep - begin van de eerste week-
 
 **Je startniveau:** - Blauw / rood -
 
-**Je focus:** - Responsive -
+**Je focus:** - Micro interaties -
 
 **Je opdracht:** - Coldplay.com -
 
