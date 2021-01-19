@@ -76,7 +76,8 @@ Lastig: Ik had gekozen voor NS.nl. Het instapniveau lag net iets te hoog waardoo
 -uitwerken voor de 1e werkgroep - eind van de eerste week-
 
 
-//BREAKDOWN SCHETSEN//
+
+<img src="images/breakdown-coldplay.jpg" width="375px" alt="Breakdown schets">
 
 
 ## Intake (week 1)
