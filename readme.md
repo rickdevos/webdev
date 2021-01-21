@@ -20,9 +20,17 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
--screenshot(s) van je eindresultaat-
+<img src="images/eind1.jpg" width="375px" alt="Breakdown schets">
+<img src="images/eind2.jpg" width="375px" alt="Breakdown schets">
 
+## Feedback gesprek met Guus
 
+- Probeer social icons toe te voegen aan de hand van flex
+- maak een tweede pagina
+- Linkje maken in tekst
+- Background uit html en in css verwerken
+
+Op de goede weg. Code ziet er netjes uit.
 
 ## Voortgang 3 (week 6)
 
