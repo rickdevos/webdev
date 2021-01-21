@@ -1,0 +1,388 @@
+/* CSS Document */
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+*, *::after, *::before {
+  box-sizing:border-box;  
+}
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+
+body {
+    font-family: adobe-garamond-pro, serif;
+    font-style: normal;
+    font-weight: 10;
+    color: #BBBBBC;
+    background-image: url('../texturedark.jpg');
+
+}
+
+/*Navigation*/
+
+nav {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    background-color: #0e0e0e;
+    padding: 1em 2em 1em 2em;
+    width: 100%;
+    z-index: 99;
+}
+
+h1 {
+    font-size: 2em;
+    letter-spacing: 1px;
+    margin-top: 5px;
+    text-transform: uppercase;
+    background: -webkit-linear-gradient(180deg, #e82829, #e36ca5, #4a9dd6, #7ebf42, #e4e11d, #e82829, #e36ca5, #4a9dd6, #7ebf42, #e4e11d, #e82829);
+    background-size: 200% 100%;
+    background-position: 0 0;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#menu_button {
+    position: absolute;
+    font-family: sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    left: 0;
+    margin-left: 2em;
+    font-size: 10px;
+    letter-spacing: 1px;
+    text-underline-offset: 80%;
+}
+
+#main_menu {
+    margin-top: 10px;
+    display: none;
+}
+
+#main_menu img {
+    margin-bottom: 50px;
+    height: 40px;
+}
+
+li {
+    font-family: sans-serif;
+    text-transform: uppercase;
+    font-size: 14px;
+    letter-spacing: 1px;
+    line-height: 40px;
+}
+
+/*Link*/
+
+a {
+    text-decoration: none;
+}
+
+.content_bottom a:link {
+    color: #BBBBBC;
+    text-decoration: underline;
+}
+
+/*Carousel*/
+
+.prev, .next {
+    position: absolute;
+    top: 30%;
+    cursor: pointer;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+
+.prev {
+    left: 0em;
+}
+
+.next {
+    right: 0em;
+}
+
+@keyframes fade {
+  from {
+    opacity: 0.4;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+span img {
+    width: 1.5em;
+}
+
+h2 {
+  font-size: 2em;
+  font-weight: 100;
+  margin-top: 50px;
+}
+
+.carouselContainer p {
+    font-family: sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 10px;
+    letter-spacing: 1px;
+    line-height: 20px;
+    font-weight: 400;
+    margin-top: 100px;
+    color: #BBBBBC;
+}
+
+/*Kleurvlakken*/
+
+h4 {
+    font-size: 1em;
+    margin-top: 80px;
+    font-style: italic;
+    text-decoration: underline;
+    letter-spacing: 1px;
+    text-underline-offset: 80%;
+}
+
+h5 {
+    font-size: 2em;
+    letter-spacing: 1px;
+    margin-top: 150px;
+}
+
+.kleurvlakken p:nth-of-type(1) {
+    font-family: sans-serif;
+    text-transform: uppercase;
+    font-size: 10px;
+    letter-spacing: 1px;
+    line-height: 20px;
+}
+
+
+.kleurvlak p {
+    font-family: sans-serif;
+    text-transform: uppercase;
+    font-size: 10px;
+    letter-spacing: 1px;
+    line-height: 20px;
+    font-weight: 400;
+    margin-top: 100px;
+    color: #BBBBBC;
+}
+
+/*Pagina 2*/
+
+.content_top h5 {
+    font-size: 2.5em;
+    font-weight: 100;
+    text-align: center;
+    margin-top: 10px; 
+    padding-bottom: 60px;
+    letter-spacing: 1px;
+       margin-left: 1em;
+    margin-right: 1em;
+}
+
+.content_bottom p {
+    font-size: 1.2em;
+    font-weight: 100;
+    text-align: left;
+    letter-spacing: 1px;
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-top: 2em;
+}
+
+.content_top p {
+ font-size: 0.9em;
+  font-weight: 100;
+  text-align: left;
+  letter-spacing: 1px;
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-top: 7em;
+    color: grey;
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+footer p {
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 9px;
+    letter-spacing: 1px;
+    line-height: 20px;
+    font-weight: 400;
+    margin: 50px 50px 20px 50px;
+}
+
+
+main {
+    padding-top: 70px;
+    text-align: center;
+}
+
+
+.container {
+  width: 100%;
+  height: 25em;
+  display: flex;
+  align-items: center;
+  justify-items: center;
+}
+
+.carouselContainer {
+  width: 100%;
+  height: 90%;
+  margin: 0 auto;
+  position: relative;
+  overflow: hidden;
+  align-items: center;
+}
+
+.carouselImgs {
+  width: 100%;
+  height: 100%;
+  animation: fade 1.5s;
+  display: flex;
+flex-direction: column;
+  padding: 150px;
+  text-align: center;
+  align-items: center;
+  justify-items: center;
+  justify-content: center;
+}
+
+.kleurvlak {
+    display: flex;
+    flex-direction: column;
+margin: 2em;
+ border: 2px solid transparent;
+  -moz-border-image: -moz-linear-gradient(top, #e82829 0%, #e4e11d 100%);
+  -webkit-border-image: -webkit-linear-gradient(top, #e82829 0%, #3a4ed5 100%);
+  border-image: -webkit-linear-gradient(10deg, #e82829, #e36ca5, #4a9dd6, #7ebf42, #e4e11d, #e82829, #e36ca5, #4a9dd6, #7ebf42, #e4e11d, #e82829);
+  border-image-slice: 1;
+height: 35em;
+align-items: center;
+    
+    
+}
+
+.kleurvlak_2 {
+    display: flex;
+    flex-direction: column;
+margin: 0.6em -0.6em -0.6em 0.6em ;
+ border: 2px solid transparent;
+  -moz-border-image: -moz-linear-gradient(top, #e82829 0%, #e4e11d 100%);
+  -webkit-border-image: -webkit-linear-gradient(top, #e82829 0%, #3a4ed5 100%);
+  border-image: -webkit-linear-gradient(10deg, #e82829, #e36ca5, #4a9dd6, #7ebf42, #e4e11d, #e82829, #e36ca5, #4a9dd6, #7ebf42, #e4e11d, #e82829);
+  border-image-slice: 1;
+height: 35em;
+align-items: center;
+      }
+
+.content_top {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;  
+    margin-bottom: 20px;
+}
+
+.content_bottom {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: left;  
+    margin-bottom: 20px;
+}
+
+.text_content img {
+    align-content: center;
+    
+}
+
+
+.footer {
+    margin: 2em;
+}
+
+.social {
+   display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    margin-left: 4em;
+    margin-right: 4em;
+    margin-top: 4em;
+}
+
+.social img {
+    height: 2em;
+    padding: 0em 1em 0em 1em;
+}
+
+.gif img {
+    opacity: 40%;
+    width: 5em;
+    margin-top: 2em;
+    margin-bottom: -2em;
+}
