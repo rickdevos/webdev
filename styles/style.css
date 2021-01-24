@@ -63,7 +63,7 @@ body {
 /*    font-style: normal;*/
 /*    font-weight: 10;*/
     color: #BBBBBC;
-    background-image: url('/textureDark.jpg');
+    background-image: ('textureDark.jpg');
 }
 
 /*Navigation*/
