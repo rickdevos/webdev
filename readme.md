@@ -25,7 +25,7 @@ Bijgewerkt voor herkansing:
 - Menu button = hover scale
 - Social icons = hover scale + rotation
 - Kleurvlakken = hover scale + 4 seconden delay bij site refresh + animation 0 tot 100 procent opacity
-- Volledig responsive
+- Bijna volledig responsive (Het enige jammere op desktops is dat de article items met gradient stroke verspringen bij het openen en sluiten van het menu)
 
 
 - Alles netjes op Github
