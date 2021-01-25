@@ -41,8 +41,8 @@ Eerste kans feedback:
 
 **Screenshot(s):**
 
-<img src="images/eind1.jpg" width="375px" alt="images/Breakdown schets">
-<img src="images/eind2.jpg" width="375px" alt="Breakdown schets">
+<img src="eind1.jpg" width="375px" alt="images/Breakdown schets">
+<img src="eind2.jpg" width="375px" alt="Breakdown schets">
 
 ## Feedback gesprek met Guus
 
@@ -111,8 +111,8 @@ Lastig: Ik had gekozen voor NS.nl. Het instapniveau lag net iets te hoog waardoo
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/screenshot_1.png" width="375px" alt="Homepage mob">
+<img src="screenshot_1.png" width="375px" alt="Homepage mob">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/screenshot_3.png" width="375px" alt="Verdiepende tekst pagina">
+<img src="screenshot_3.png" width="375px" alt="Verdiepende tekst pagina">
