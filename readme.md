@@ -97,7 +97,7 @@ Lastig: Ik had gekozen voor NS.nl. Het instapniveau lag net iets te hoog waardoo
 
 
 
-<img src="images/breakdown-coldplay.jpg" width="375px" alt="Breakdown schets">
+<img src="breakdown-coldplay.jpg" width="375px" alt="Breakdown schets">
 
 
 ## Intake (week 1)
