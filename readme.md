@@ -16,7 +16,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Eindgesprek (week 7/8)
 
-Error: Bij uploaden van GITHUB waren alle images niet meer zichtbaar de enige oplossing die ik gevonden heb is om geen images map te gebruiken maar de images los in de map te gooien (niet optimaal). Het werkt wel gewoon. De geuploade map in dlo is geschikt voor github omdat de code voor images daar anders werkt.
+Error: Bij het uploaden naar GITHUB waren alle images niet meer zichtbaar de enige oplossing die ik gevonden heb is om geen images map te gebruiken maar de images los in de map te gooien (niet optimaal). Het werkt wel gewoon. De geuploade map in dlo is geschikt voor github omdat de code voor images daar anders werkt.
+Error update: Dat de geuploade map op DLO geen plaatjes toonde kwam door mijn safari browser in Chrome werkt het zoals het moet.
 
 Bijgewerkt voor herkansing:
 
